@@ -25,6 +25,8 @@ game_objects = [
     { name = "Adver_SideMirror01" },
     { name = "Adver_SideMirror02" },
     { name = "Adver_SideMirror03" },
+    # アバター
+    { name = "Adver_SideMirror04" },
     # ローカル/グローバル
     { name = "Adv_Ladder01 (4)" },
 ]
