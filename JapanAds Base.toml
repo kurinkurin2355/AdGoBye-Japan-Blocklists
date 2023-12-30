@@ -100,6 +100,6 @@ game_objects = [
     { name = "Quad (41)" },
     { name = "Quad (44)" },
     { name = "Quad (45)" },
-    # vrc放送局テレビの撤去
+    # vrc放送局テレビ
     { name = "VRCTV-TV" },
 ]
