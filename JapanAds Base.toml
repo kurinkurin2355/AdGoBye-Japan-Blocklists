@@ -105,3 +105,12 @@ game_objects = [
     # vrc放送局テレビ
     { name = "VRCTV-TV" },
 ]
+
+[[block]]
+friendly_name = "ポピー横丁-Poppy Street-"
+world_id = "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5"
+game_objects = [
+    { name = "StreetPoster" },
+    # 音楽を無効化
+    { name = "WorldBGM" },
+]
