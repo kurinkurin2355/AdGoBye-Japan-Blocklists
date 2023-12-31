@@ -84,7 +84,7 @@ game_objects = [
     # "ポスター"内の広告
     { name = "Quad (2)" },
     { name = "Quad (4)" },
-    { name = "Quad (33)", position = { x = -7.52 , y = 1.17 , z = 6.263 } },
+    { name = "Quad (33)", position = { x = -7.52 , y = 1.17 , z = 6.263 }, parent = { name = "ポスター"} },
     { name = "Quad (68)" },
     { name = "Quad (43)" },
     { name = "Quad (54)" },
@@ -100,6 +100,7 @@ game_objects = [
     { name = "Quad (41)" },
     { name = "Quad (44)" },
     { name = "Quad (45)" },
+    { name = "Quad (71)" },
     # ２階広告
     { name = "Radio", parent = { name = "USiOPORT" } },
     # vrc放送局テレビ
