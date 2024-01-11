@@ -20,13 +20,15 @@ game_objects = [
     { name = "Adver_BackMirror05" },
     # 正面右はしご
     { name = "Advertisement" },
+    { name = "SDK3-posters (1)" },
+    { name = "VLM" },
     # 正面左
     { name = "Adver_Monthly_2" },
     { name = "Adver_SideMirror01" },
     { name = "Adver_SideMirror02" },
     { name = "Adver_SideMirror03" },
     # アバター
-    { name = "Adver_SideMirror04" },
+    { name = "Adver_Avatar" },
     # ローカル/グローバル
     { name = "Adv_Ladder01 (4)" },
 ]
