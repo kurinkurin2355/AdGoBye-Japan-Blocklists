@@ -11,22 +11,22 @@ game_objects = [
     { name = "Adv_Entrance (1)" },
     { name = "Adv_Entrance (2)" },
     # 正面ミラー
-    { name = "Adver_MirrorSwitchLeft" },
-    { name = "Adver_MirrorSwitchRight" },
     { name = "Adver_BackMirror01" },
+    { name = "Adver_BackMirror01 (1)" },
     { name = "Adver_BackMirror02" },
     { name = "Adver_BackMirror03" },
     { name = "Adver_BackMirror04" },
     { name = "Adver_BackMirror05" },
+    { name = "Adver_BackMirror05 (1)" },
     # 正面右はしご
     { name = "Advertisement" },
     { name = "SDK3-posters (1)" },
     { name = "VLM" },
     # 正面左
-    { name = "Adver_Monthly_2" },
     { name = "Adver_SideMirror01" },
     { name = "Adver_SideMirror02" },
     { name = "Adver_SideMirror03" },
+    { name = "Adver_SideMirror04" },
     # アバター
     { name = "Adver_Avatar" },
     # ローカル/グローバル
